@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "817804417167",
+    "firebase_url": "https://health-space-2-default-rtdb.firebaseio.com",
+    "project_id": "health-space-2",
+    "storage_bucket": "health-space-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817804417167:android:3c274ebb1d654012fa38fa",
+        "android_client_info": {
+          "package_name": "com.example.healthspace3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817804417167-msg3modn41naf2fusk1og6sdo3tvjscq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLc3DZKFNlDd0w3KsyQeadtukw-faJqmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817804417167-msg3modn41naf2fusk1og6sdo3tvjscq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
